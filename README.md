@@ -43,6 +43,7 @@ The analysis is performed using a Jupyter notebook and covers the following aspe
 - `Facebook_Marketplace_data.csv`: The dataset in CSV format.
 - `Facebook_ML.ipynb`: Jupyter notebook containing the analysis.
 - `Facebook Live Sellers Analysis.pptx`: A PowerPoint presentation summarizing the insights.
+- `Facebook_Marketplace_data_description.pdf`: A PDF summarizing the dataset.
 
 ## License
 
